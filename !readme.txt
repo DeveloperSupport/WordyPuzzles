@@ -1,3 +1,4 @@
+purpose: this program was intended to be the foundation of dictionary based puzzles and games on a local computer using a freely and publicly available dictionary of english words and definitions.
 filename: !readme.txt
 author: andrew flagg
 company: mountain computers inc
